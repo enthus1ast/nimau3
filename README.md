@@ -1,5 +1,16 @@
-# nimau3
-Wraps AutoItX3.dll
+# Little wrapper for AutoItX3 in nim-lang
+testet with autoit-v3.3.14.2
+
+more infos:
+    https://www.autoitscript.com/site/autoit/
+    
+docs:
+    https://www.autoitscript.com/autoit3/docs/
+
+Place the AutoItX3.dll next to this file.
+
+use the proc `L` to fill the functions like so:
+L"my nice string"
 
 
 Examples:
