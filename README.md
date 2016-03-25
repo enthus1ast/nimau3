@@ -1,10 +1,13 @@
 # Little wrapper for AutoItX3 in nim-lang
 testet with autoit-v3.3.14.2
 
-more infos:
+module docs:
+    http://enthus1ast.github.io/nimau3/
+
+more infos on Auto IT:
     https://www.autoitscript.com/site/autoit/
     
-docs:
+Auto IT docs:
     https://www.autoitscript.com/autoit3/docs/
 
 Place the AutoItX3.dll next to this file.
