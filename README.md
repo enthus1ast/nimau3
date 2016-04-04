@@ -12,6 +12,10 @@ Place the AutoItX3.dll next to this file.
 use the proc `L` to fill the functions like so:
 L"my nice string"
 
+Installation:
+
+    nimble install https://github.com/enthus1ast/nimau3
+
 
 Examples:
 
